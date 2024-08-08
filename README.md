@@ -7,7 +7,7 @@
 
 **Databases**: `MYSQL`,`Oracle`,`Postgres`,`FireBase`,`MongoDB`,`Cassandra`✨
 
-`:linkedin:` : [PaulChinta](https://www.linkedin.com/in/paulchinta/) 🌱
+**Linked-in** : [PaulChinta](https://www.linkedin.com/in/paulchinta/) 🌱
 
 <!--
 **PaulChinta7/PaulChinta7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
