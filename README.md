@@ -1,5 +1,5 @@
 ## Hi there 🌱 I'm Paul Chinta
-# Software Engineer Java `:man_technologist:`
+# Software Engineer Java :man_technologist:
 
 **Front-End** | `React JS`,`Angular JS`, `React Native`✨
 
