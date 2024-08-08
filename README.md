@@ -2,10 +2,12 @@
 # Software Engineer Java | Full Stack Developer Java
 
 **Front-End** : `React JS`,`Angular JS`, `React Native`✨
-**Back-End** : `Spring Boot`, `Kafka` , `Docker`, `Kubernetes`,`Jenkins`✨
-**Databases": `MYSQL`,`Oracle`,`Postgres`,`FireBase`,`MongoDB`,`Cassandra`✨
 
-`:Linkedin:` : [PaulChinta](https://www.linkedin.com/in/paulchinta/) 🌱
+**Back-End** : `Spring Boot`, `Kafka` , `Docker`, `Kubernetes`,`Jenkins`✨
+
+**Databases**: `MYSQL`,`Oracle`,`Postgres`,`FireBase`,`MongoDB`,`Cassandra`✨
+
+`:linkedin:` : [PaulChinta](https://www.linkedin.com/in/paulchinta/) 🌱
 
 <!--
 **PaulChinta7/PaulChinta7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
