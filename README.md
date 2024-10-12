@@ -9,8 +9,21 @@
 
 **Linked-in** | [PaulChinta](https://www.linkedin.com/in/paulchinta/) 🌱
 
+<div align="left" style="display: flex; justify-content: center; gap: 20px;">
+  <div style="width: 40%; height: 100px; overflow: hidden;">
+    <img src="https://leetcard.jacoblin.cool/paulchinta7?ext=heatmap" alt="LeetCard" style="width: 40%; height: auto; object-fit: cover;" />
+  </div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulchinta7&show_icons=true&locale=en&layout=compact" alt="paulchinta7" /></p>
+  <div style="width: 40%; height: 100px; overflow: hidden;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paulchinta7&show_icons=true&locale=en&layout=compact" alt="paulchinta7" style="width: 40%; height: auto; object-fit: cover;" />
+  </div>
+</div>
+
+
+
+
+
+
 <!--
 **PaulChinta7/PaulChinta7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
