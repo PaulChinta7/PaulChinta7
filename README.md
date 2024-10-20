@@ -8,6 +8,7 @@
 **Databases** | `MYSQL`,`Oracle`,`Postgres`,`FireBase`,`MongoDB`,`Cassandra`✨
 
 **Linked-in** | [PaulChinta](https://www.linkedin.com/in/paulchinta/) 🌱
+**Resume** |  [click here](https://drive.google.com/file/d/1J4NmeHSI45Mm17EzW9CE_4UAsSNQkNsJ/view?usp=sharing)
 
 <div align="left" style="display: flex; justify-content: center; gap: 20px;">
   <div style="width: 40%; height: 100px; overflow: hidden;">
